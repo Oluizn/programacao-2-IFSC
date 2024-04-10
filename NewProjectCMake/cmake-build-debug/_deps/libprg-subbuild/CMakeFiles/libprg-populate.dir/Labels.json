@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Anton/OneDrive/Documentos/programacao-2-IFSC/NewProjectCMake/cmake-build-debug/_deps/libprg-subbuild/CMakeFiles/libprg-populate"
+		},
+		{
+			"file" : "C:/Users/Anton/OneDrive/Documentos/programacao-2-IFSC/NewProjectCMake/cmake-build-debug/_deps/libprg-subbuild/CMakeFiles/libprg-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Anton/OneDrive/Documentos/programacao-2-IFSC/NewProjectCMake/cmake-build-debug/_deps/libprg-subbuild/CMakeFiles/libprg-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Anton/OneDrive/Documentos/programacao-2-IFSC/NewProjectCMake/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Anton/OneDrive/Documentos/programacao-2-IFSC/NewProjectCMake/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Anton/OneDrive/Documentos/programacao-2-IFSC/NewProjectCMake/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Anton/OneDrive/Documentos/programacao-2-IFSC/NewProjectCMake/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Anton/OneDrive/Documentos/programacao-2-IFSC/NewProjectCMake/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Anton/OneDrive/Documentos/programacao-2-IFSC/NewProjectCMake/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Anton/OneDrive/Documentos/programacao-2-IFSC/NewProjectCMake/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Anton/OneDrive/Documentos/programacao-2-IFSC/NewProjectCMake/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libprg-populate"
+		],
+		"name" : "libprg-populate"
+	}
+}

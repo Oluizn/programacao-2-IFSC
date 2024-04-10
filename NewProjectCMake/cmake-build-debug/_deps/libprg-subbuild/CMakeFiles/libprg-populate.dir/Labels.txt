@@ -1,0 +1,14 @@
+# Target labels
+ libprg-populate
+# Source files and their labels
+C:/Users/Anton/OneDrive/Documentos/programacao-2-IFSC/NewProjectCMake/cmake-build-debug/_deps/libprg-subbuild/CMakeFiles/libprg-populate
+C:/Users/Anton/OneDrive/Documentos/programacao-2-IFSC/NewProjectCMake/cmake-build-debug/_deps/libprg-subbuild/CMakeFiles/libprg-populate.rule
+C:/Users/Anton/OneDrive/Documentos/programacao-2-IFSC/NewProjectCMake/cmake-build-debug/_deps/libprg-subbuild/CMakeFiles/libprg-populate-complete.rule
+C:/Users/Anton/OneDrive/Documentos/programacao-2-IFSC/NewProjectCMake/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-build.rule
+C:/Users/Anton/OneDrive/Documentos/programacao-2-IFSC/NewProjectCMake/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-configure.rule
+C:/Users/Anton/OneDrive/Documentos/programacao-2-IFSC/NewProjectCMake/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-download.rule
+C:/Users/Anton/OneDrive/Documentos/programacao-2-IFSC/NewProjectCMake/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-install.rule
+C:/Users/Anton/OneDrive/Documentos/programacao-2-IFSC/NewProjectCMake/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-mkdir.rule
+C:/Users/Anton/OneDrive/Documentos/programacao-2-IFSC/NewProjectCMake/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-patch.rule
+C:/Users/Anton/OneDrive/Documentos/programacao-2-IFSC/NewProjectCMake/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-test.rule
+C:/Users/Anton/OneDrive/Documentos/programacao-2-IFSC/NewProjectCMake/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-update.rule

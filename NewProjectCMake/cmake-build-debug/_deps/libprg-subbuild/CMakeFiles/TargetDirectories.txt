@@ -1,0 +1,3 @@
+C:/Users/Anton/OneDrive/Documentos/programacao-2-IFSC/NewProjectCMake/cmake-build-debug/_deps/libprg-subbuild/CMakeFiles/libprg-populate.dir
+C:/Users/Anton/OneDrive/Documentos/programacao-2-IFSC/NewProjectCMake/cmake-build-debug/_deps/libprg-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/Anton/OneDrive/Documentos/programacao-2-IFSC/NewProjectCMake/cmake-build-debug/_deps/libprg-subbuild/CMakeFiles/rebuild_cache.dir
